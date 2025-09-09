@@ -7,9 +7,9 @@ import java.util.Random;
 
 /* Integrantes
  * Andres Felipe Escudero Gutierrez
- * Paula Sierra
- * Ismael Perez
- * 
+ * Paula Marcela Sierra Gaber
+ * Ismael Andres Perez Orozco
+ * Juan Pablo Rojas Rodriguez
  * 
  */
 
@@ -76,6 +76,7 @@ public class GenerateInfoFiles {
         }
     }
 }
+
 
 
 
